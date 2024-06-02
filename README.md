@@ -1,2 +1,2 @@
-# pymaceuticals-challenge
-module 5 challenge
+# Pymaceuticals-challenge
+Module 5 Challenge
